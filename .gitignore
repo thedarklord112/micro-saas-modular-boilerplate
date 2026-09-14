@@ -1,0 +1,24 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Next.js build and cache
+/.next/
+/out/
+.next-env.d.ts
+
+# Production & Development Environment Secrets (Stripe / Supabase Keys)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.flash
+
+# OS files
+.DS_Store
+Thumbs.db
