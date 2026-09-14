@@ -83,6 +83,7 @@ This starter pack configuration is open-source and free for commercial or person
 
 
 <div align="center">
-  <h1>(sorry for the long readme, take some diamonds;))</h1>
+  <h1>(sorry for the long readme, take some diamonds;))</h1>                 <img width="415" height="382" alt="image" src="https://github.com/user-attachments/assets/0239543d-b7da-4e57-aaca-fc7bb0842ffa" />
+
 </div>
-                                                    <img width="1600" height="1500" alt="image" src="https://github.com/user-attachments/assets/1165efad-b286-4e2b-961f-393ab123419e" />
+
